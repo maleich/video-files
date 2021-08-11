@@ -1,4 +1,3 @@
-animal = "donkey"
-print(animal[0])
-print(animal[5])
+print("She said, \n\t\"Let's go \\ for a hike today!\"")
 
+print("cat " * 5)
